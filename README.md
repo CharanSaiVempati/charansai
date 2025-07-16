@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋,I'm Charan Sai</h1>
 <div align="center"> <img src="https://github.com/CharanSaiVempati/charansai/blob/main/Coverimg.png"> </div>
-<h3 align="center">A passionate DevOps Engineer From India. In my free time i run my own acommunity at https://chat.whatsapp.com/Ds1RjtNaNjP5cHc5jaw3nK</h3>
+<h3 align="center">A passionate Software Developer From India. In my free time i run my own acommunity at https://chat.whatsapp.com/Ds1RjtNaNjP5cHc5jaw3nK</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyasatpute&label=Profile%20views&color=0e75b6&style=flat" alt="divyasatpute" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyasatpute&label=Profile%20views&color=0e75b6&style=flat" alt="divyasatpute" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyasatpute" alt="divyasatpute" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyasatpute" alt="divyasatpute" /></a> </p> -->
 
-- 👨‍💻 All of my projects are available at [https://divyasatpute.github.io/divyasatpute.io/]
+- 👨‍💻 All of my projects are available at [(https://github.com/CharanSaiVempati/)]
 
 - 📝 I regularly write articles on [https://learnwithdivya.hashnode.dev/](https://learnwithdivya.hashnode.dev/)
 
