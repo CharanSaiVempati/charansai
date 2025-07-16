@@ -1,2 +1,2 @@
 <h1 align="center">Hi 👋, Charan Sai</h1>
-<div align="center"> <img src="https://github.com/CharanSaiVempati/charansai/blob/main/coverimg.png"> </div>
+<div align="center"> <img src="https://github.com/CharanSaiVempati/charansai/blob/main/Coverimg.png"> </div>
